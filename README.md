@@ -26,10 +26,10 @@ The following key performance metrics were used in the analysis:
 - **Realization %**: Percentage of successful check-outs from total bookings.
 
 ## 4. Data Model
-https://github.com/Aarush250/Hospitality-Project/blob/main/Data%20Model.png
+![Data Model](https://github.com/Aarush250/Hospitality-Project/raw/main/Data%20Model.png)
 
 ## 5. Overall Analysis View
-https://github.com/Aarush250/Hospitality-Project/blob/main/Overall%20Analysis%20View.png
+![Overall Analysis View](https://github.com/Aarush250/Hospitality-Project/raw/main/Overall%20Analysis%20View.png)
 
 ## 6. Key Insights
 
