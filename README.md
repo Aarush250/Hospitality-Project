@@ -25,9 +25,15 @@ The following key performance metrics were used in the analysis:
 - **Cancellation %**: Percentage of bookings that were canceled.
 - **Realization %**: Percentage of successful check-outs from total bookings.
 
-## 4. Key Insights
+- ## 4. Data Model
+- https://github.com/Aarush250/Hospitality-Project/issues/1#issue-2907825638
 
-### 4.1 Revenue Analysis
+- ## 5. Overall Analysis View
+- 
+
+## 6. Key Insights
+
+### 6.1 Revenue Analysis
 - Mumbai generates the highest revenue among all cities at ₹661 million.
 - AtliQ Exotica contributes an impressive ₹316 million, while AtliQ Seasons records the lowest revenue at ₹65 million.
 - Delhi, despite having the highest average customer rating, recorded the lowest revenue at ₹291 million.
@@ -36,18 +42,18 @@ The following key performance metrics were used in the analysis:
 - Elite and Premium rooms contribute the most revenue among all room types.
 - The Average Daily Rate (ADR) remains stable with minimal fluctuations, indicating consistent pricing strategies by hotels.
 
-### 4.2 Occupancy & Capacity Trends
+### 6.2 Occupancy & Capacity Trends
 - AtliQ properties in Delhi exhibit a notably high occupancy rate compared to other locations.
 - Delhi leads in both occupancy and customer rating, despite generating lower revenue.
 
-### 4.3 Customer Behavior Analysis
+### 6.3 Customer Behavior Analysis
 - Other travel platforms are the primary booking source, accounting for 40% of total bookings and generating ₹690 million in revenue.
 - Direct offline booking contributes the least, accounting for only 5% of total bookings and revenue.
 - MakeYourTrip ranks second among all booking platforms, contributing 20% of total bookings and ₹341 million in revenue.
 - The Elite room category generates the most revenue, whereas Standard rooms underperform.
 - AtliQ Exotica and AtliQ Palace are the top revenue contributors, making up 18.75% and 17.80% of total revenue, respectively. Both hotels maintain strong average ratings of 3.6 and 3.7, showcasing their excellent performance.
 
-## 5. Recommendations
+## 7. Recommendations
 - **Luxury hotels generate higher revenue but experience higher cancellation rates.** Implementing stricter cancellation policies could improve revenue realization.
 - **Peak booking periods occur during weekends and specific months (May & July).** Hotels should implement dynamic pricing strategies to maximize revenue during these high-demand periods.
 - **Online booking platforms dominate the market.** Investing in digital marketing and incentivizing direct bookings can reduce dependency on third-party platforms.
