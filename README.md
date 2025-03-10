@@ -29,7 +29,7 @@ The following key performance metrics were used in the analysis:
 https://github.com/Aarush250/Hospitality-Project/blob/main/Data%20Model.png
 
 ## 5. Overall Analysis View
-
+https://github.com/Aarush250/Hospitality-Project/blob/main/Overall%20Analysis%20View.png
 
 ## 6. Key Insights
 
