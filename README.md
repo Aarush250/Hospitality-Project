@@ -26,7 +26,7 @@ The following key performance metrics were used in the analysis:
 - **Realization %**: Percentage of successful check-outs from total bookings.
 
 - ## 4. Data Model
-- https://github.com/Aarush250/Hospitality-Project/issues/1#issue-2907825638
+https://private-user-images.githubusercontent.com/181615161/421002363-56f9dcf2-8b56-465e-b914-b70f2e026ff4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE2MjQ3NTUsIm5iZiI6MTc0MTYyNDQ1NSwicGF0aCI6Ii8xODE2MTUxNjEvNDIxMDAyMzYzLTU2ZjlkY2YyLThiNTYtNDY1ZS1iOTE0LWI3MGYyZTAyNmZmNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxMFQxNjM0MTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NjVkYjU3MmUxOWQ0NDdiMDQ3ZDZiMDI3ZGEwMzExODVmMjdlYTc5MmU1ZGE4MjM4MGMyNjY4NDFlZTc2NDQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-Hoq-uI-ZcmHFpHWcyng7zr4YA_4qIq3EyFzNGwAR40
 
 - ## 5. Overall Analysis View
 - 
