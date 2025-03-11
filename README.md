@@ -30,7 +30,7 @@ The following key performance metrics were used in the analysis:
 
 ## 5. Overall Analysis View
 ![Overall Analysis View](https://github.com/Aarush250/Hospitality-Project/raw/main/Overall%20Analysis%20View.png)
-Live Dashboard - [Link](<iframe title="Hospitality Project" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzFhYmUyNTktYjFlNy00YWU1LWI0NzUtMzU0ODcyOWUxYjkxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>)
+Live Dashboard - [Link](https://app.powerbi.com/view?r=eyJrIjoiMzFhYmUyNTktYjFlNy00YWU1LWI0NzUtMzU0ODcyOWUxYjkxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 6. Key Insights
 
